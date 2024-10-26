@@ -6,6 +6,12 @@ Develop a media viewer Android application that displays media items.
 The app should allow the user to navigate through media items using swipe gestures and
 optionally interact with camera functionalities as specified below.
 
+### Formal requirements:
+◦ This repository **should be cloned** and used as a starter\
+◦ The dataset to use is local, and the parsing logic is already attached to the initial setup - please **focus on the UI, and media parts**.\
+◦ **DO NOT PUSH** anything here, please create **your own repository**, mark it as **private**, and **add [this user](https://github.com/ujszaszik) as a collaborator**.\
+◦ Please use **commits for smaller chunks** of functionality, with **meaningful commit messages**.
+
 ### Functional requirements:
 
 **1. Displaying Media Items:**\
@@ -53,3 +59,7 @@ optionally interact with camera functionalities as specified below.
       If you deviate from MVVM, ensure the architecture you use is well-structured and maintainable.\
 **◦ Separation of Concerns:** Ensure proper separation of concerns between the UI, data, and business logic layers.\
 **◦ Testing:** Unit tests or UI tests are **not required** as part of this assignment.\
+
+### Questions:
+
+_If you have any question, feel free to reach out to me at the following email address: karoly@iris.la_
