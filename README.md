@@ -6,8 +6,8 @@ Develop a media viewer Android application that displays media items.\
 The app should allow the user to navigate through media items using swipe gestures.
 
 ### Formal requirements:
-◦ This repository **should be cloned** and used as a starter\
-◦ The dataset to use is local, and the parsing logic is already attached to the initial setup - please **focus on the UI, and media parts**.\
+◦ This repository **can be cloned** and used as a starter (dataset, and parsing are already added). If you do so, please use at least **Android Studio Koala Feature Drop | 2024.1.2 Patch 1** to be able to compile.\
+◦ You can also **start your implementation from scratch**, then you will need the _'media_items.json'_ file from assets folder of this repository.\
 ◦ **DO NOT PUSH** anything here, please create **your own repository**, mark it as **private**, and **add [this user](https://github.com/ujszaszik) as a collaborator**.\
 ◦ Please use **commits for smaller chunks** of functionality, with **meaningful commit messages**.
 
@@ -29,7 +29,7 @@ The app should allow the user to navigate through media items using swipe gestur
 ▪ Swiping up or down should be disabled if there are no more media items in that direction.\
 ▪ Transitions for these swipes must match the design and animation provided.
 
-**3. Video Playback (Right/Left Swiping)**\
+**3. Video Playback (Right/Left Swiping)**
 
 <video src="https://github.com/user-attachments/assets/bd52a12f-a9af-48f0-aa50-48824cd3e917"> \
 
@@ -56,4 +56,4 @@ The app should allow the user to navigate through media items using swipe gestur
 
 ### Questions:
 
-_If you have any question, feel free to reach out to me at the following email address: karoly@iris.la_
+_If you have any questions, feel free to reach out to me at the following email address: karoly@iris.la_
