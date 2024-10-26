@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "title": "Stockholm",
+      "thumbnail": "https://cometosweden.se/wp-content/uploads/sites/2/2019/02/26647215977_670509918a_k-4.jpg",
+      "videos": [
+        {
+          "url": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/no0jF1g/videoblocks-aerial-sweden-9795-stockholm-june-2018-sunny-day-90mm-zoom-4k-inspire-2-pro_roen3ttkdv__3306c4505a7054889ecfb5eb79931612__P360.mp4",
+          "date": "2024-10-20T17:03:30Z"
+        },
+        {
+          "url": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/no0jF1g/videoblocks-aerial-sweden-9794-stockholm-june-2018-sunny-day-90mm-zoom-4k-inspire-2-pro_bjmzntjpn__4bd5ec1f3b046f4c30936bc47c105bd6__P360.mp4",
+          "date": "2024-09-04T12:54:45Z"
+        },
+        {
+          "url": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/Hbcvy2m9Pkhol3frp/66e58ed35ae8cc2aea6acfd3-x669cn74t1__27c50a74c8fb99268c65546144f7d485__P360.mp4",
+          "date": "2024-09-21T20:42:54Z"
+        }
+      ]
+    },
+    {
+      "title": "Göteborg",
+      "thumbnail": "https://cometosweden.se/wp-content/uploads/sites/2/2023/06/GBGPosterLowRes-1097x1536.jpg",
+      "videos": [
+        {
+          "url": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/S_0u8Ztyol7dh3juh/videoblocks-2209goteborgskylinesunsetc17static_s9txhzg0s__5b54cd9de925538b535e62b90fd36da9__P360.mp4",
+          "date": "2023-04-25T03:12:23Z"
+        },
+        {
+          "url": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/S_0u8Ztyol7dh3juh/videoblocks-2209goteborgwaterfrontc09static_rqey3wmai__87723a136ac73f27e9933fb3d8334943__P360.mp4",
+          "date": "2024-01-02T07:54:12Z"
+        },
+        {
+          "url": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/SIRLXoNEXjjzpme6v/videoblocks-prague_v1-0047_b5umrbczn__75815f75cded64f76911e65dfdc0c9c7__P360.mp4",
+          "date": "2024-03-15T11:56:01Z"
+        }
+      ]
+    },
+    {
+      "title": "Malmö",
+      "thumbnail": "https://i.pinimg.com/474x/ef/f6/c0/eff6c0aca256e6aa71317608a4a04f6b.jpg",
+      "videos": [
+        {
+          "url": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/SIRLXoNEXjjzpme6v/videoblocks-v1-0176_copenhagen-sweden_bsdzszg93__a1c04bd746c1b81dc2946609e3732605__P360.mp4",
+          "date": "2024-06-12T12:34:16Z"
+        },
+        {
+          "url": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/S_0u8Ztyol7dh3juh/videoblocks-2209malmowaterfrontc06static_r9xytxvgcs__e5b38ee8c5af02cc538cf792dc242fdd__P360.mp4",
+          "date": "2024-08-16T08:43:53Z"
+        },
+        {
+          "url": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/SIRLXoNEXjjzpme6v/videoblocks-copen-86_ryns5g6mf__312071415fd509a09ade68f8ff78ccc9__P360.mp4",
+          "date": "2022-12-23T11:34:39Z"
+        }
+      ]
+    }
+  ]
+}
