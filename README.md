@@ -3,6 +3,7 @@
 ## Iris Android Home Assignment
 
 Develop a media viewer Android application that displays media items.\
+The media consists of thumbnails from Swedish cities, and each city has a few associated videos, accessible via URLs.\
 The app should allow the user to navigate through media items using swipe gestures.
 
 ### Formal requirements:
@@ -19,19 +20,15 @@ The app should allow the user to navigate through media items using swipe gestur
 
 **2. Main Screen Navigation (Thumbnail View)**
 
-<video src="https://github.com/user-attachments/assets/df5d526e-b3b1-4fee-a8b5-e19004f75c34"> \
-
 ***◦ Vertical Swiping (Up/Down):***\
 ▪ On the main screen, allow users to swipe up or down to browse through thumbnails of the media items.\
 ▪ When the user swipes up, the next media item’s thumbnail should be displayed.\
 ▪ When the user swipes down, the previous media item’s thumbnail should be displayed.\
 ▪ Ensure that up/down swiping is only enabled when the user is on the thumbnail page.\
 ▪ Swiping up or down should be disabled if there are no more media items in that direction.\
-▪ Transitions for these swipes must match the design and animation provided.
+▪ _**BONUS POINT:**_ Make an animation that has the item that is leaving screen collapse, and the one that is entering the screen expand.
 
 **3. Video Playback (Right/Left Swiping)**
-
-<video src="https://github.com/user-attachments/assets/bd52a12f-a9af-48f0-aa50-48824cd3e917"> \
 
 ***◦ Right Swipe (Open Videos):***\
 ▪ When the user swipes right, display the videos attached to the current media item (from the thumbnail page).\
@@ -39,7 +36,7 @@ The app should allow the user to navigate through media items using swipe gestur
 ▪ If there are no more videos for the current media item, swiping right is disabled.\
 ***◦ Left/Right Swiping (Switch Between Videos):***\
 ▪ Allow users to swipe right to view the next video and swipe left to go back to the previous video.\
-▪ Transitions between videos must follow the design’s transition animation.
+▪ _**BONUS POINT**_: Make transition animation between videos when switching from one to another.
 
 ### Technical acceptance criteria:
 
